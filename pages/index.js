@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site!" />
         <p className="description">
-          This site is under construction>
+          This site is under construction
         </p>
       </main>
 
